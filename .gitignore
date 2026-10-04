@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Build outputs
+build/
+build-obj/
+Payload/
+*.ipa
